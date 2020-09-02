@@ -52,9 +52,11 @@ def add_characters
          ]
       },
       :additional_characters => [
-        name: "Prince Escalus",
-        name: "Apothecary"
+        name: "Prince Escalus"
       ]
+      :additional_characters => [
+        name: "Apothecary"
+        ]
    }
 
    # Write code below that does the following programmatically:
